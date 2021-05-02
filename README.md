@@ -12,7 +12,7 @@ Answer questions based on data:<br/>
 4.) Who was alone and who was with family?<br/>
 5.) What factors helped someone survive the sinking?
 
-This Notebook will show basic examples of:
+This Notebook will show basic examples of:<br/>
 Data Handling<br/>
 Importing Data with Pandas<br/>
 Cleaning Data<br/>
