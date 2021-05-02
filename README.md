@@ -19,4 +19,12 @@ Cleaning Data<br/>
 Exploring Data through Visualizations with Matplotlib<br/>
 Data Analysis<br/>
 
-
+Dependencies:<br/>
+NumPy<br/>
+IPython<br/>
+Pandas<br/>
+SciKit-Learn<br/>
+SciPy<br/>
+StatsModels<br/>
+Patsy<br/>
+Matplotlib
