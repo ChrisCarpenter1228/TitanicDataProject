@@ -5,14 +5,14 @@ The goal of this repository is to provide an example of a competitive analysis f
 
 Goal for this Project:<br/>
 Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities.
-Answer questions based on data:<br/><br/>
+Answer questions based on data:<br/>
 1.) Who were the passengers on the Titanic? (Ages,Gender,Class,..etc)<br/>
 2.) What deck were the passengers on and how does that relate to their class?<br/>
 3.) Where did the passengers come from?<br/>
 4.) Who was alone and who was with family?<br/>
 5.) What factors helped someone survive the sinking?
 
-This Notebook will show basic examples of:<br/><br/>
+This Notebook will show basic examples of:
 Data Handling<br/>
 Importing Data with Pandas<br/>
 Cleaning Data<br/>
